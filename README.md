@@ -9,9 +9,8 @@ Currently building **Heartcode** – a self-evolving, emotionally intelligent AI
 - 🤝 Open to collaborations, mentorship, and AI/Robotics discussions  
 
 ## Platforms
-- [LinkedIn](www.linkedin.com/in/devanshrana09)  
-- [Kaggle]()  
-- [HackerRank]()
+- [LinkedIn](www.linkedin.com/in/devanshrana09)   
+- [HackerRank](https://www.hackerrank.com/profile/devanshrana9090)
 
 ## Featured Projects
 | Project | Description | Skills Highlighted |
