@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Devansh 👋
 
-<!--
-**DevanshRana09/devanshrana09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a student at **IIT Madras (BS in Data Science)** with a deep passion for **AI, Machine Learning, Robotics, and IoT**.  
+Currently building **Heartcode** – a self-evolving, emotionally intelligent AI/robot.
 
-Here are some ideas to get you started:
+- 🔭 Exploring hands-on projects in Data Science, Deep Learning, and Robotics  
+- 🌱 Continuously learning and experimenting with AI/ML applications  
+- 🤝 Open to collaborations, mentorship, and AI/Robotics discussions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Platforms
+- [LinkedIn](www.linkedin.com/in/devanshrana09)  
+- [Kaggle]()  
+- [HackerRank]()
+
+## Featured Projects
+| Project | Description | Skills Highlighted |
+|---------|-------------|------------------|
+| **Heartcode** | Developing a self-evolving, emotionally intelligent AI system integrating Robotics, Deep Learning, and IoT. | Python, Deep Learning, Robotics, IoT |
+
+## Connect with Me
+- 📫 Email: devanshrana9090@gmail.com
