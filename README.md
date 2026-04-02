@@ -1,12 +1,10 @@
 # Hi there, I'm Devansh 👋
 
 ## About Me
-I'm a student at **IIT Madras (BS in Data Science)** with a deep passion for **AI, Machine Learning, Robotics, and IoT**.  
-Currently exploring **Heartcode** – a self-evolving, emotionally intelligent AI/robot.
+I'm a student at **IIT Madras (BS in Data Science)** with a deep passion for **AI and Machine Learning**.  
+Currently learning and improving.
 
-- 🔭 Exploring hands-on projects in Data Science, Deep Learning, and Robotics  
-- 🌱 Continuously learning and experimenting with AI/ML applications  
-- 🤝 Open to collaborations, mentorship, and AI/Robotics discussions  
+I am a data enthusiast driven by the challenge of extracting meaningful patterns from complex datasets. My lerning helps in equipping me with a strong foundation in statistics, programming, and machine learning, which I apply to build intelligent, scalable systems.
 
 ## Platforms
 - [LinkedIn](www.linkedin.com/in/devanshrana09)   
@@ -15,7 +13,7 @@ Currently exploring **Heartcode** – a self-evolving, emotionally intelligent A
 ## Featured Projects
 | Project | Description | Skills Highlighted |
 |---------|-------------|------------------|
-| **Heartcode** | Developing a self-evolving, emotionally intelligent AI system integrating Robotics, Deep Learning, and IoT. | Python, Deep Learning, Robotics, IoT |
+
 
 ## Connect with Me
 - 📫 Email: devanshrana9090@gmail.com
